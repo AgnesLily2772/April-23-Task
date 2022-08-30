@@ -1,0 +1,17 @@
+body{
+    background-color:antiquewhite;
+}
+h1{
+    text-align: center;
+    color:darkslateblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.mydiv{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 20px solid darkslateblue;
+    padding: 20px;
+}

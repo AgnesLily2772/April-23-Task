@@ -1,0 +1,31 @@
+body{
+    background-color:navy;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    text-align: center;
+    color:rgb(164, 205, 222);
+    font-size:xx-large;
+}
+.mydiv{
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+}
+.box{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+    border:2px solid crimson;
+    background-color: rgb(164, 205, 222);
+    border-radius: 20px;
+    border: 2px solid rebeccapurple;
+    font-weight: bold;
+    
+}
+p{
+    color: navy;
+}

@@ -1,0 +1,31 @@
+body{
+    background-color: purple;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size:xx-large;
+    color: rgb(218, 203, 232);
+}
+.mydiv{
+    margin-left: 40px;
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+    grid-gap: 10px;
+}
+.box{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    width: 350px;
+    overflow: hidden;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(255, 187, 255);
+    /* font-size: larger; */
+    font-weight: bold;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
